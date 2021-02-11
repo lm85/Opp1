@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Request-rate: 10/1m
+Crawl-delay: 20
+
+Sitemap: http://operaplus.cz/sitemap.xml
